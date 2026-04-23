@@ -78,4 +78,4 @@ if archivo:
             st.link_button("🚀 ABRIR EN MAPS", url_maps)
 
 if st.button("Limpiar Pantalla"):
-    st.rerun()
+    st.rerun() 
