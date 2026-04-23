@@ -79,3 +79,4 @@ if archivo:
 
 if st.button("Limpiar Pantalla"):
     st.rerun() 
+    
